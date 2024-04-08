@@ -31,4 +31,4 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/evozi/hysteria-
 
 ---
 
-**If you find hysteria-install useful, consider giving it a ⭐️!**
+**If you find hysteria-install useful, consider giving it a ⭐️ or contribute to PR!**
